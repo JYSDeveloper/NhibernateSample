@@ -1,0 +1,17 @@
+G:\C#Code\NhibernateSample\SampleDomain\bin\Debug\SampleDomain.dll
+G:\C#Code\NhibernateSample\SampleDomain\bin\Debug\SampleDomain.pdb
+G:\C#Code\NhibernateSample\SampleDomain\bin\Debug\Antlr3.Runtime.dll
+G:\C#Code\NhibernateSample\SampleDomain\bin\Debug\Iesi.Collections.dll
+G:\C#Code\NhibernateSample\SampleDomain\bin\Debug\NHibernate.dll
+G:\C#Code\NhibernateSample\SampleDomain\bin\Debug\Remotion.Linq.dll
+G:\C#Code\NhibernateSample\SampleDomain\bin\Debug\Remotion.Linq.EagerFetching.dll
+G:\C#Code\NhibernateSample\SampleDomain\bin\Debug\Antlr3.Runtime.xml
+G:\C#Code\NhibernateSample\SampleDomain\bin\Debug\Iesi.Collections.xml
+G:\C#Code\NhibernateSample\SampleDomain\bin\Debug\NHibernate.xml
+G:\C#Code\NhibernateSample\SampleDomain\bin\Debug\Remotion.Linq.xml
+G:\C#Code\NhibernateSample\SampleDomain\bin\Debug\Remotion.Linq.EagerFetching.xml
+G:\C#Code\NhibernateSample\SampleDomain\obj\Debug\SampleDomain.csprojAssemblyReference.cache
+G:\C#Code\NhibernateSample\SampleDomain\obj\Debug\SampleDomain.csproj.CoreCompileInputs.cache
+G:\C#Code\NhibernateSample\SampleDomain\obj\Debug\SampleDomain.csproj.CopyComplete
+G:\C#Code\NhibernateSample\SampleDomain\obj\Debug\SampleDomain.dll
+G:\C#Code\NhibernateSample\SampleDomain\obj\Debug\SampleDomain.pdb
