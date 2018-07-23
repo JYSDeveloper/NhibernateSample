@@ -77,7 +77,7 @@ namespace SampleTest
         {
             var cat = new Cat()
             {
-                Name = "SampleTwo",
+                Name = "SampleThree",
                 Sex = 'F',
                 Weight = 10.0f
             };
